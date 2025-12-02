@@ -2,9 +2,9 @@ _core:
   default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: fr
 uuid: 7f73d9b5-22be-47e4-99c5-ef490e082a4d
-name: 'Ma Boutique'
-mail: admin@example.com
-slogan: 'La boutique la plus sympa'
+name: 'My Best Boutic'
+mail: kuznecovn82@gmail.com
+slogan: 'The nicest shop'
 page:
   403: ''
   404: ''
