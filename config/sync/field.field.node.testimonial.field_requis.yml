@@ -1,0 +1,19 @@
+uuid: 229d4a3c-39a6-401f-a1f9-2583d81782c5
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_requis
+    - node.type.testimonial
+id: node.testimonial.field_requis
+field_name: field_requis
+entity_type: node
+bundle: testimonial
+label: Requis
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
